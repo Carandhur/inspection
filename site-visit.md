@@ -12,3 +12,9 @@ July 2026
 structural damages on 2 floors risking wall bending
 Windows frales in bad shape
 ```
+
+## Solutions
+
+```
+Windows replacement on street elevation.
+```
