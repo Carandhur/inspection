@@ -1,5 +1,12 @@
 ## Building Inspection for small units
 
 ```
-Residential diagnostic on thermal retrofitting
+Residential diagnostics on thermal retrofitting on old buildings
+
+```
+
+### European Union regulations
+
+```
+Certified materials
 ```
