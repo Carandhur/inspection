@@ -8,5 +8,7 @@ Residential diagnostics on thermal retrofitting on old buildings
 ### European Union regulations
 
 ```
-Certified materials
+Certified materials.
+Certified insulation elements and materials.
+
 ```
